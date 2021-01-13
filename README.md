@@ -18,7 +18,7 @@ inside the bounding box is used to determine if that area of the image is 'stron
 indicating a stop sign. The largest bounding box of the image is then kept while the rest are
 removed.
 
-![alt text](https://github.com/tylerjzender/Stop_Sign_Detector/blob/main/StopSignDetector_Output.JPG?raw=true)
+![StopSignDetector_Output](https://user-images.githubusercontent.com/77171947/104414719-b81a5980-553e-11eb-97d1-7a865d898db7.JPG)
 Figure 1: Output of the .mlx MATLAB file with determined correct bounding boxes for each test image
 
 This project was initially completed while completing my computer engineering degree
