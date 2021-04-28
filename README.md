@@ -1,4 +1,4 @@
-# Stop_Sign_Detector
+# Stop Sign Detector
 
 This project is a MATLAB script for training a cascade detector for detecting stop signs.
 To do this, three sets of data were first collected. Two sets of images were of stop
